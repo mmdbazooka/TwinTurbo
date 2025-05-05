@@ -23,7 +23,7 @@ This project highlights my skills in **React development**, **Redux state manage
 1. Clone the repository: `git clone [your-repo-link]`
 2. Install dependencies: `npm install`
 3. Set up the API (ensure mock API is running or configure your endpoint).
-4. Run the app: `npm start`
+4. Run the app: `npm run dev`
 5. Open `http://localhost:3000` in a browser.
 6. Start exploring courses and features!
 
